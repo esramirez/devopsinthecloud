@@ -38,7 +38,7 @@
 	"PublicBucket" : {
 	  "Description" : "S3 bucket for storing build artifacts",
       "Type" : "String",
-      "Default" : "stelligentlabs",
+      "Default" : "watersdeployment",
       "ConstraintDescription" : "Must be a valid S3 Bucket"
 	}
   },
